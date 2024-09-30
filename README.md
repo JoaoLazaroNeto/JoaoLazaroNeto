@@ -3,10 +3,7 @@
 - 📫 Contact: Joao.lazaro@sptech.school
 - ⚡ Linkedin: João Lázaro
 
-  <div  align="center">
-   <img height="150em" src='https://github-readme-stats.vercel.app/api?username=JoaoLazaroNeto&show&countprivate=true&icons=true&theme=material-palenight'>
-   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoLazaroNeto&countprivate=true&layout=compact&show_icons=true&theme=material-palenight">
-  </div>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
    <div  align="center">
      <img src="https://icongr.am/devicon/css3-original.svg?size=50&color=60307e">
