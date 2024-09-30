@@ -1,7 +1,7 @@
 ### Hello i'm João Lázaro 👋
-- ⚡ information Systems student (SPtech- São Paulo Tech School)
-- 📫 Contact: joao.lazaro@sptech.school
-- 💬 Linkedin: João Lázaro 
+- 🌱 information Systems student (SPtech- São Paulo Tech School)
+- 📫 Contact: Joao.lazaro@sptech.school
+- ⚡ Linkedin: João Lázaro
 
   <div  align="center">
    <img height="150em" src='https://github-readme-stats.vercel.app/api?username=JoaoLazaroNeto&show&countprivate=true&icons=true&theme=material-palenight'>
@@ -18,7 +18,7 @@
  </div>
 
 <!--
-**JoaoLazaroNeto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MatheusFermoselle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 Contate-me no email: julia.oliveira@sptech.school
+- 📫 Contate-me no email: joao.lazaro@sptech.school
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
