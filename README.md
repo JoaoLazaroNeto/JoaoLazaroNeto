@@ -1,5 +1,5 @@
 ### Hello i'm João Lázaro 👋
-- 🌱 information Systems student (SPtech- São Paulo Tech School)
+- ⚡ information Systems student (SPtech- São Paulo Tech School)
 - 📫 Contact: joao.lazaro@sptech.school
 - 💬 Linkedin: João Lázaro 
 
