@@ -3,9 +3,8 @@
 - 📫 Contact: Joao.lazaro@sptech.school
 - ⚡ Linkedin: João Lázaro
 
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoLazaroNeto)](https://github.com/anuraghazra/github-readme-stats)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoLazaroNeto)](https://github.com/anuraghazra/github-readme-stats)
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoLazaroNeto&show_icons=true&theme=white)
 
    <div  align="center">
