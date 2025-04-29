@@ -1,7 +1,5 @@
 ### Hello i'm João Lázaro 👋
 - 🌱 information Systems student (SPtech- São Paulo Tech School)
-- 📫 Contact: joao.lazaro@sptech.school 
-
 
   <div  align="center">
    <img height="150em" src='https://github-readme-stats.vercel.app/api?username=JoaoLazaroNeto&show&countprivate=true&icons=true&theme=material-palenight'>
